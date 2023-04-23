@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fira0l
-- 👀 I’m interested in programming as u all know
+- 👀 I’m interested in programming as u all
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on software design plus web developing
 - 📫 How to reach me firaolanbessa170@gmail.com
