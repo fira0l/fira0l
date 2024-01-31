@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fira0l
-- 👀 I’m interested in programming as u all
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on software design plus web developing
-- 📫 How to reach me firaolanbessa170@gmail.com
+- 💞️ I’m looking to collaborate on: software design plus web developing
+- 📫YOU CAN REACH ME THROUGH MY EMAIL:firaolanbessa170@gmail.com
 
 <!---
 fira0l/fira0l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
