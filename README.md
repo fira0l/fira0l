@@ -1,3 +1,4 @@
+![logo](https://github.com/fira0l/fira0l/blob/main/F.gif)
 <h1 align="center">Hi 👋, I'm Firaol Anbessa</h1>
 <h3 align="center">A Passionate Fullstack and mobile app developer from Ethiopia</h3>
 
