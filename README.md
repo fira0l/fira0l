@@ -59,16 +59,3 @@ src="https://img.shields.io/twitch/status/frxnova?logo=twitchsx&style=for-the-ba
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://buymeacoffee.com/fira0l"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/firaolanbessa170"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 </ul>
-<script
-      data-name="BMC-Widget"
-      data-cfasync="false"
-      src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-      data-id="fira0l"
-      data-description="Support me on Buy me a coffee!"
-      data-message="Thank you for visiting, if u want to support me"
-      data-color="#BD5FFF"
-      data-position="Right"
-      data-x_margin="18"
-      data-y_margin="18"
-    ></script>
-
