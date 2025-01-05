@@ -35,9 +35,10 @@ src="https://img.shields.io/twitch/status/frxnova?logo=twitchsx&style=for-the-ba
 ### Badges
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/fira0l"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fira0l&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a width="75%" href="http://www.github.com/fira0l"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fira0l&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <div style="
+    width:75%;
     display: flex;
     flex-direction: row;
     gap: 5px;
@@ -48,7 +49,7 @@ src="https://img.shields.io/twitch/status/frxnova?logo=twitchsx&style=for-the-ba
 </div>
 
 <div style="
-    width: 90%;
+    width: 75%;
     display: flex;
     flex-direction: row;
     gap: 5px;
@@ -67,10 +68,14 @@ gap : 7px
 </div>
 </div>
 
+<div>
 
 ### Support Me
+
 
 <ul style="list-style-type: none; margin: 0;">
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://buymeacoffee.com/fira0l"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/firaolanbessa170"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 </ul>
+</div>
+
