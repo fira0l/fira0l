@@ -1,4 +1,4 @@
-![logo](https://github.com/fira0l/fira0l/blob/main/F.gif)
+![logo](https://github.com/fira0l/fira0l/blob/main/F.png)
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Firaol Anbessa
