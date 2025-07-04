@@ -10,9 +10,9 @@ Passionate Software Designer and Developer
 I have been trying to learn coding for the past four years and know I am fully fledged Full Stack web developer and flutter mobile app developer. and as a general I am Software Designer and Engineer .Lately I have been Studying Python Programming and I am Trying to be a best Machine Learning Model Developer ...
 
 * 🌍  I'm based in Jimma City
-* 🖥️  See my portfolio at [MyPortofolio](http://:fira0l.github.io/Personal-Portfolio/)
+* 🖥️  See my portfolio at [MyPortofolio](https://magnificent-dasik-3a3102.netlify.app/)
 * ✉️  You can contact me at [firaolanbessa170@gmail.com](mailto:firaolanbessa170@gmail.com)
-* ⚡  I'm secretly MR.ROBOT, but Don't Tell Anyone
+
 
 <a href="https://www.github.com/fira0l" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/fira0l?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/FiraValorant" target="_blank" rel="noreferrer"><img
