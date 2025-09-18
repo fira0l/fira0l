@@ -20,6 +20,10 @@ src="https://img.shields.io/twitter/follow/FiraValorant?logo=twitter&style=for-t
 /></a><a href="https://www.twitch.tv/frxnova" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/frxnova?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+### Views
+<img src="https://komarev.com/ghpvc/?username=fira0l&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
 ### Skills
 
 
