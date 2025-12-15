@@ -14,7 +14,7 @@ I'm a full-stack developer with 4 years of coding experience, specializing in we
 
 ## 🚀 About Me
 
-* 📍 **Based in:** Jimma City
+* 📍 **Based in:** Addis Ababa
 * 🌐 **Portfolio:** [MyPortfolio](https://magnificent-dasik-3a3102.netlify.app/)
 * 📧 **Contact:** [firaolanbessa170@gmail.com](mailto:firaolanbessa170@gmail.com)
 * 🎯 **Focus:** Full Stack Development, Flutter, Machine Learning
