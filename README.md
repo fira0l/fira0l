@@ -1,3 +1,6 @@
+# Hi there, I'm Firaol 👋
+
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -12,11 +15,6 @@
     src="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-# Hi there, I'm Firaol 👋
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0891B2&height=240&section=header&text=Firaol%20Anbessa&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer%20•%20Machine%20Learning&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=800&lines=AI+Engineer;Full-Stack+Developer;Building+AI+SaaS+Applications;NLP+%7C+RAG+%7C+Computer+Vision;Django+%7C+Flutter+%7C+Python"/>
