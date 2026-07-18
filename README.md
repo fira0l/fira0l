@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 # Hi there, I'm Firaol 👋
 
 <div align="center">
@@ -104,22 +119,6 @@ NumPy • Pandas • Scikit-learn • OpenCV • NLP • RAG
 
 ---
 
-# 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/fira0l/fira0l/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
 # 💬 Random Dev Quote
