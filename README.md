@@ -15,7 +15,7 @@
 ---
 
 # 👨‍💻 About Me
-
+<div align="center">
 | | |
 |---|---|
 |💼|AI Engineer & Full-Stack Developer|
@@ -23,6 +23,8 @@
 |🌱|Learning Deep Learning, Agentic AI and LLM Engineering|
 |📍|Addis Ababa, Ethiopia|
 |⚡|Passionate about solving real-world problems with AI|
+
+</div>
 
 ---
 <div align="center">
