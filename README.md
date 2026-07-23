@@ -15,7 +15,6 @@
 ---
 
 # 👨‍💻 About Me
-<div align="center">
 | | |
 |---|---|
 |💼|AI Engineer & Full-Stack Developer|
@@ -24,7 +23,6 @@
 |📍|Addis Ababa, Ethiopia|
 |⚡|Passionate about solving real-world problems with AI|
 
-</div>
 
 ---
 <div align="center">
